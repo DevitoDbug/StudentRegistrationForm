@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fb6166-3c4d-45ba-b63b-f2c122450967" name="Changes" comment="added a frame and a Panel">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/NavigationBar.java" afterDir="false" />
+    <list default="true" id="f2fb6166-3c4d-45ba-b63b-f2c122450967" name="Changes" comment="added UI elements">
+      <change afterPath="$PROJECT_DIR$/src/GUI/RegistrationPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/RoundedPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GUI/FrameClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/FrameClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/NavigationBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/NavigationBar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GUI/PanelClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/PanelClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DAVID/IdeaProjects/StudentRegistrationForm/src/GUI&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DAVID\IdeaProjects\StudentRegistrationForm\src\GUI" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677324783308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="formatting the nav bar">
+      <created>1677327347809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677327347809</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added a frame and a Panel" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a frame and a Panel" />
+    <MESSAGE value="formatting the nav bar" />
+    <MESSAGE value="added UI elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="added UI elements" />
   </component>
 </project>

@@ -17,6 +17,7 @@ public class FrameClass extends JFrame {
         this.add(navBar);
 
         this.setLayout(null);
+        this.setBackground(Color.WHITE);
         this.setFont(new Font("Segoe UI Semibold", Font.PLAIN, 11));
         this.setResizable(false);
         this.setBounds(100, 0, 1100, 700);
@@ -24,4 +25,5 @@ public class FrameClass extends JFrame {
         this.setVisible(true);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
+
 }

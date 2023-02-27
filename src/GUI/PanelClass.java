@@ -1,14 +1,20 @@
 package GUI;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class PanelClass extends JPanel {
+    RegistrationPanel registrationPanel;
     PanelClass()
     {
-        this.setBounds(210, 0, 874, 661);
+        registrationPanel = new RegistrationPanel();
+        registrationPanel.setBounds(10 , 10 , 800 , 600);
+        registrationPanel.setOpaque(false);
+
+        this.add(registrationPanel);
+
+        this.setBounds(220, 0, 820, 620);
         this.setFocusable(true);
-        this.setBackground(new Color(224, 224, 235));
+        this.setOpaque(false);
         this.setLayout(null);
         this.setVisible(true);
     }
